@@ -1,11 +1,3 @@
-//FizzBuzz
-//Author: Andrew Jessen-Tyler
-//
-//FizzBuzz is a common test script where the console counts up from 1 to a certain number. If the number is divisible by 3 with no remainder, the output will be "Fizz". If the number is divisible by 5 with no remainder, the output will be "Buzz". If the number is divisible by 3 and 5 with no remainder, the output will be "FizzBuzz". If the number doesn't fit any of the prior criteria, the output will just be the number.
-//Example of fizzbuzz(15): 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
-//This code has been modified so Fizz and Buzz can be set to any number, and not just 3 and 5. See line 13 for more instructions regarding this.
-//
-
 "USE STRICT"
 
 function fizzbuzz(x) {

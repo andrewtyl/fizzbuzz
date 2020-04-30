@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.1",
+  "description": "A simple, adjustable, FizzBuzz script.",
+  "author": "Andrew Jessen-Tyler",
+  "license": "MIT",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "start": "node fizzbuzz.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtyl/fizzbuzz.git"
+  },
+  "keywords": [
+    "node",
+    "fizzbuzz"
+  ],
+  "bugs": {
+    "url": "https://github.com/andrewtyl/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/andrewtyl/fizzbuzz#readme"
+}
